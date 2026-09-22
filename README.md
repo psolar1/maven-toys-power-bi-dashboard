@@ -67,3 +67,13 @@ The dataset contains sales, products, stores, inventory, calendar, and data dict
 ## Author
 
 Adebayo Ayotomiwa Praise
+
+## Dashboard Preview
+
+### Sales & Profit Overview
+
+![Sales & Profit Overview](sales-profit-overview.png.png)
+
+### Product & Store Performance
+
+![Product & Store Performance](product-store-performance.png.png)

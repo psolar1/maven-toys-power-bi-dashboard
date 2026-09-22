@@ -48,15 +48,6 @@ Provides deeper analysis of:
 - Highest Revenue Product Category: **Toys**
 - Highest Revenue Store Location: **Downtown**
 
-## Tools & Skills
-
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-- KPI Development
-- Business Analysis
-- Financial Performance Analysis
 
 ## Data Source
 
@@ -64,9 +55,6 @@ Maven Analytics — Maven Toys Guided Project.
 
 The dataset contains sales, products, stores, inventory, calendar, and data dictionary information.
 
-## Author
-
-Adebayo Ayotomiwa Praise
 
 ## Dashboard Preview
 
@@ -77,3 +65,24 @@ Adebayo Ayotomiwa Praise
 ### Product & Store Performance
 
 ![Product & Store Performance](product-store-performance.png.png)
+
+## Key Takeaways
+
+- Toys generated the highest revenue among product categories.
+- Downtown stores generated the highest revenue among store locations.
+- Total revenue was $14.44M with $4.01M in total profit.
+- Overall profit margin was 27.8%.
+
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Data modeling
+- KPI development
+- Interactive dashboard design
+- Revenue and profitability analysis
+- Product and store performance analysis
+
+## Author
+
+Adebayo Ayotomiwa Praise
